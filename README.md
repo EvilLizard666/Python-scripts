@@ -1,2 +1,2 @@
 # automation
-Automate pentesting
+Automates pentesting
