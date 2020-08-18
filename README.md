@@ -1,4 +1,4 @@
-# Automation
+# Initial Scanning automation
 
 Simple Automation script uses 3 Preinstalled in kali linux tools (Nmap, Dirb, Nikto)
 Usage: 
